@@ -25,7 +25,7 @@ This Power BI dashboard provides insights into the data science profession, show
 
 ## How to Use  
 1. Clone the repository or download the files.  
-2. Open the `DataScienceDashboard.pbix` file in Power BI Desktop.  
+2. Open the `Data Professional Survey.pbix` file in Power BI Desktop.  
 3. Explore the interactive visuals and slicers to analyze insights.  
 
 ## Contact  
